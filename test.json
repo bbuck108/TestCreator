@@ -2,23 +2,11 @@
           "name": "Test",
           "questions": [{
                     "number": 1,
-                    "answers": [
-                              {
-                                        "correct": true,
-                                        "letter": "a",
-                                        "text": "answer"
-                              },
-                              {
-                                        "correct": false,
-                                        "letter": "b",
-                                        "text": "answer"
-                              },
-                              {
-                                        "correct": false,
-                                        "letter": "c",
-                                        "text": "answer"
-                              }
-                    ],
+                    "answers": [{
+                              "correct": true,
+                              "letter": "a",
+                              "text": "Answer"
+                    }],
                     "text": "Question"
           }]
 }
